@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0f0d351-6ce4-424c-bc19-03558c70948e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SuBakSu/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SuBakSu/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="f0f0d351-6ce4-424c-bc19-03558c70948e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1611570368655">
