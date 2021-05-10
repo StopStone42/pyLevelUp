@@ -1,0 +1,3 @@
+#pyPrac
+
+print('HelloPython')
